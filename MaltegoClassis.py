@@ -1,21 +1,3 @@
-#######################################################
-# Maltego Python Local Transform Helper               #
-#   Version 0.2				              #
-#                                                     #
-# Local transform specification can be found at:      #
-#    http://ctas.paterva.com/view/Specification	      #
-#                                                     #
-# For more help and other local transforms            #
-# try the forum or mail me:                           #
-#                                                     #
-#   http://www.paterva.com/forum                      #
-#                                                     #
-#  Andrew MacPherson [ andrew <<at>> Paterva.com ]    #
-#                                                     #
-#  This file was modified and is being distributed    #
-#  with express written consent from the original     #
-#  author.                                            #
-#######################################################
 
 import sys
 
